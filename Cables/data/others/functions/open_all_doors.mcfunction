@@ -1,0 +1,13 @@
+function others:open_door1
+function others:open_door2
+function others:open_door3
+function others:open_door4
+function others:open_door5
+function others:open_door6
+function others:open_door7
+function others:open_door8
+function others:open_door9
+function others:open_door10
+function others:open_door11
+function others:open_door12
+function others:open_door13
